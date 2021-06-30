@@ -1,0 +1,18 @@
+R version 3.6.1 
+
+Attached packages:
+data.table_1.13.0   
+mltools_0.3.5       
+xgboost_1.2.0.1    
+randomForest_4.6-14 
+pROC_1.16.2         
+glmnet_4.0-2       
+Matrix_1.2-18       
+caret_6.0-86        
+lattice_0.20-38    
+corrplot_0.84       
+ggpubr_0.2.4        
+magrittr_1.5       
+ggplot2_3.2.1       
+summarytools_0.9.4  
+dplyr_0.8.3        
